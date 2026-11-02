@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+*.user
+.codegraph/
+
+# IDE / 系统杂项
+.vs/
+*.suo
+*.swp
+.DS_Store
+Thumbs.db
